@@ -1,6 +1,6 @@
 {
-    "name": "SafeSwap",
-    "logoURI": "https://poisonswap.netlify.app/icon.png",
+    "name": "Poisonswap",
+    "logoURI": "https://raw.githubusercontent.com/Softweirdo/PoisonTokenList/main/icon.png",
     "keywords": ["defi", "PSX", "yield", "Poison"],
     "timestamp": "2021-09-04T12:20:34.305Z",
     "tokens": [
