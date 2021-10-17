@@ -28,5 +28,10 @@
         "chainId": 97,
         "logoURI": "https://bscscan.com/token/images/venus-vxrp_32.png"
       }
-    ]
+    ],
+    "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
 }
