@@ -1,0 +1,191 @@
+{
+    "name": "Poisonswap",
+    "logoURI": "https://raw.githubusercontent.com/Softweirdo/PoisonTokenList/main/icon.png",
+    "keywords": ["defi", "POI", "yield", "Poison"],
+    "timestamp": "2021-09-04T12:20:34.305Z",
+    "tokens": [
+      {
+        "name": "Deswap",
+        "address": "0x689ee599fe87c8cb79e6bc987fc2e2bd9f2269e8",
+        "symbol": "BDAW",
+        "decimals": 18,
+        "chainId": 97,
+        "logoURI": "https://assets.coingecko.com/coins/images/18135/small/Thunder-move_%281%29.png?1630632525"
+      },
+      {
+        "name": "BUSD",
+        "address": "0xd739dcdd940575102b24b45249cd5d5f62ebd9fb",
+        "symbol": "BUSD",
+        "decimals": 6,
+        "chainId": 97,
+        "logoURI": "https://raw.githubusercontent.com/dhavalmp194/crypto-icons/31d436f92da750897f3439aa20764e4fd24bd098/cryptocurrency-icons-master/svg/icon/usdt.svg"
+      },
+      {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      },
+      {
+        "name": "Venus",
+        "address": "0xd682b37646ca9f6e1671c11ed2f8cb69dc9b64a5",
+        "symbol": "XRP",
+        "decimals": 18,
+        "chainId": 97,
+        "logoURI": "https://bscscan.com/token/images/venus-vxrp_32.png"
+      },
+      {
+        "name": "BTCB Token",
+        "symbol": "BTCB",
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+      },
+      {
+        "name": "Ethereum Token",
+        "symbol": "ETH",
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+      },
+      {
+        "name": "Bakery Token",
+        "symbol": "BAKE",
+        "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+      },
+      {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      },
+
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+      },
+      {
+        "name": "EOS Token",
+        "symbol": "EOS",
+        "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+      },
+
+      {
+        "name": "XRP Token",
+        "symbol": "XRP",
+        "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+      },
+
+      {
+        "name": "Litecoin Token",
+        "symbol": "LTC",
+        "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+      },
+
+      {
+        "name": "Dai Token",
+        "symbol": "DAI",
+        "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+      },
+
+      {
+        "name": "Polkadot Token",
+        "symbol": "DOT",
+        "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+      },
+      {
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+      },
+
+      {
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+      },
+
+      {
+        "name": "Burger Swap",
+        "symbol": "BURGER",
+        "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+      },
+
+
+      {
+        "name": "Trust Wallet",
+        "symbol": "TWT",
+        "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
+      },
+      {
+        "name": "KAVA",
+        "symbol": "KAVA",
+        "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
+        "chainId": 56,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+      },
+
+      {
+        "name": "CertiK Token",
+        "symbol": "CTK",
+        "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+        "chainId": 56,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
+      },
+      {
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153.png"
+      }
+    ],
+    "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
